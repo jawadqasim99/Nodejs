@@ -1,0 +1,9 @@
+                        				    ========================== Node Js (non-blocking) ==================================
+Node js not a fram work just a "Java script rumtime enviroment".
+=> Basically java script is developed that its run out side the browsers its means server side.
+When we are used Node.js?
+=> I/O bound (Node js accepted more then one request at a time)
+=> Data streaming Application (face book : Instagram)
+=> Real chat application (whatsapp)
+Donot use Cpu intency
+
