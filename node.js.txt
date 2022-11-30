@@ -6,4 +6,7 @@ When we are used Node.js?
 => Data streaming Application (face book : Instagram)
 => Real chat application (whatsapp)
 Donot use Cpu intency
-
+>Repl(read eval print loop):=> is used to debug javascript . wo expriment node js code
+=>When we call the function then we said argument.
+=.when we defiend the function and declare call parameter.
+=>Create a file in node js rapl use this command type > nul (file name)
